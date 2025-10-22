@@ -57,7 +57,7 @@ const Footer = () => {
                 hello@inktouched.com
               </a>
               <a
-                href="https://wa.me/94771234567"
+                href="https://wa.me/94767332238"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 font-sans text-sm text-muted-foreground hover:text-primary transition-colors group"
