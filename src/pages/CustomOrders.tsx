@@ -104,7 +104,7 @@ const CustomOrders = () => {
                   type="tel"
                   value={formData.phone}
                   onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-                  placeholder="+94 77 123 4567"
+                  placeholder="+94 76 733 2238"
                   className="border-border focus:border-accent"
                 />
               </div>
