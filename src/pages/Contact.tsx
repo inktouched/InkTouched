@@ -48,7 +48,7 @@ const Contact = () => {
             </a>
 
             <a
-              href="https://wa.me/94771234567"
+              href="https://wa.me/94767332238"
               target="_blank"
               rel="noopener noreferrer"
               className="group bg-card border border-border rounded-2xl p-8 shadow-soft hover:shadow-hover transition-all duration-300 hover:scale-[1.02] animate-fade-in"
@@ -66,7 +66,7 @@ const Contact = () => {
                     Quick questions and instant quotes
                   </p>
                   <p className="font-sans text-sm font-medium text-accent">
-                    +94 77 123 4567
+                    +94 76 733 2238
                   </p>
                 </div>
               </div>
